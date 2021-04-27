@@ -1,0 +1,48 @@
+---
+#
+# This is the canonical configuration for the `README.md`
+# Run `make readme` to rebuild the `README.md`
+#
+
+# Name of this project
+name: vscode-extension-template
+
+email:
+  support: support@hadenlabs.com
+
+# Logo for this project
+#logo: docs/logo.png
+
+# License of this project
+license: 'LGPL-3.0'
+
+# Canonical GitHub repo
+github_repo: hadenlabs/vscode-extension-template
+
+# Badges to display
+badges:
+  - name: GitHub tag (latest SemVer)
+    image: https://img.shields.io/github/v/tag/hadenlabs/vscode-extension-template?label=latest&sort=semver
+    url: https://github.com/hadenlabs/vscode-extension-template/releases
+  - name: Lint
+    image: https://img.shields.io/github/workflow/status/hadenlabs/vscode-extension-template/lint-code
+    url: https://github.com/hadenlabs/vscode-extension-template/actions
+  - name: Issues
+    image: https://img.shields.io/github/issues/hadenlabs/vscode-extension-template
+    url: https://github.com/hadenlabs/vscode-extension-template/issues
+  - name: Latest Release
+    image: https://img.shields.io/github/release/hadenlabs/vscode-extension-template
+    url: https://github.com/hadenlabs/vscode-extension-template/releases
+
+description: |-
+
+  vscode-extension-template for vcode
+
+usage: |-
+
+  ```shell
+    code --install-extension hadenlabs.vscode-extension-template
+  ```
+
+include:
+  - 'docs/commands.md'
