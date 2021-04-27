@@ -14,9 +14,15 @@
 
 # vscode-extension-template
 
-[![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/hadenlabs/vscode-extension-template?label=latest&sort=semver)](https://github.com/hadenlabs/vscode-extension-template/releases) [![Lint](https://img.shields.io/github/workflow/status/hadenlabs/vscode-extension-template/lint-code)](https://github.com/hadenlabs/vscode-extension-template/actions) [![Issues](https://img.shields.io/github/issues/hadenlabs/vscode-extension-template)](https://github.com/hadenlabs/vscode-extension-template/issues) [![Latest Release](https://img.shields.io/github/release/hadenlabs/vscode-extension-template)](https://github.com/hadenlabs/vscode-extension-template/releases)
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/hadenlabs/vscode-extension-template?label=latest&sort=semver)](https://github.com/hadenlabs/vscode-extension-template/releases) [![Latest Release](https://img.shields.io/github/release/hadenlabs/vscode-extension-template)](https://github.com/hadenlabs/vscode-extension-template/releases) [![Lint](https://img.shields.io/github/workflow/status/hadenlabs/vscode-extension-template/lint-code)](https://github.com/hadenlabs/vscode-extension-template/actions) [![Issues](https://img.shields.io/github/issues/hadenlabs/vscode-extension-template)](https://github.com/hadenlabs/vscode-extension-template/issues) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org) [![KeepAChangelog](https://img.shields.io/badge/Keep%20A%20Changelog-1.0.0-%23E05735)](https://keepachangelog.com)
 
 vscode-extension-template for vcode
+
+### Replace name project to New Project
+
+```bash
+  agr 'vscode-extension-template' 'new-project'
+```
 
 ## Usage
 
